@@ -9,3 +9,6 @@ This is a simple Chrome Extension which will allow the user to tabulate JIRA col
 - Enjoy!
 
 special thanks to [federc88](https://github.com/federc88) who implemented this slightly differently [here](https://github.com/federc88/Jira-Column-Points).
+
+## TODO
+- Needs tests

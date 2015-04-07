@@ -1,0 +1,24 @@
+{
+  "name": "jira-column-points",
+  "version": "0.0.1",
+  "description": "Show Column Sums in JIRA Sprint Boards",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benderTheCrime/JIRA-column-points.git"
+  },
+  "author": "Joe Groseclose <@benderTheCrime>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benderTheCrime/JIRA-column-points/issues"
+  },
+  "homepage": "https://github.com/benderTheCrime/JIRA-column-points",
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "karma-mocha": "^0.1.10",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "mocha": "^2.2.1"
+  }
+}
