@@ -7,3 +7,5 @@ This is a simple Chrome Extension which will allow the user to tabulate JIRA col
 - Make sure to go to the manifest.json and include your own JIRA organization.
 - Configure your JIRA Board Card Layout to include Estimates (It will not work unless you do so).
 - Enjoy!
+
+special thanks to [federc88](https://github.com/federc88) who implemented this slightly differently [here](https://github.com/federc88/Jira-Column-Points).
