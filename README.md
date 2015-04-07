@@ -12,3 +12,4 @@ special thanks to [federc88](https://github.com/federc88) who implemented this s
 
 ## TODO
 - Needs tests
+- Total Board points
