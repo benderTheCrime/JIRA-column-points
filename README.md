@@ -4,6 +4,6 @@ This is a simple Chrome Extension which will allow the user to tabulate JIRA col
 ## To use this Extension
 - Pull down this repository, wherever you would like on your filesystem.
 - Drag the containing folder into your extensions tab in Chrome and make sure it is enabled (in Incognito if you prefer).
-- Make sure to go to the manifest.json and include your own JIRA organization (I for one use spongecell.atlassian.net because that is the fantastic tech organization in which I work!). It will not work unless you do so and you may not have access to spongecell.atlassian.net (You probably will not unless I'm sharing this with you).
-- Configure your JIRA Board Card Layout to include Estimates at Agile --> Manage Boards --> Configure --> Remaining Points to Estimate
+- Make sure to go to the manifest.json and include your own JIRA organization.
+- Configure your JIRA Board Card Layout to include Estimates (It will not work unless you do so).
 - Enjoy!

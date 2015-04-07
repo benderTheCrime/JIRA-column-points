@@ -2,19 +2,19 @@
   "name": "JIRA Column Points",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Show Column Sums in JIRA Boards",
+  "description": "Show Column Sums in JIRA Sprint Boards",
   "homepage_url": "https://www.spongecell.com",
   "icons": {},
   "permissions": [
     "tabs",
-    "https://spongecell.atlassian.net/*",
-    "http://spongecell.atlassian.net/*"
+    "https://<your_organization>.atlassian.net/*",
+    "http://<your_organization>.atlassian.net/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://spongecell.atlassian.net/*",
-        "http://spongecell.atlassian.net/*"
+        "https://<your_organization>.atlassian.net/*",
+        "http://<your_organization>.atlassian.net/*"
       ],
       "js": [
         "src/js/int.js"
