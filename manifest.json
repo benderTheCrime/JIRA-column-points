@@ -1,0 +1,24 @@
+{
+  "name": "JIRA Column Points",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Show Column Sums in JIRA Boards",
+  "homepage_url": "https://www.spongecell.com",
+  "icons": {},
+  "permissions": [
+    "tabs",
+    "https://spongecell.atlassian.net/*",
+    "http://spongecell.atlassian.net/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://spongecell.atlassian.net/*",
+        "http://spongecell.atlassian.net/*"
+      ],
+      "js": [
+        "src/js/int.js"
+      ]
+    }
+  ]
+}
