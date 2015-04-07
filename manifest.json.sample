@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Show Column Sums in JIRA Sprint Boards",
-  "homepage_url": "https://www.spongecell.com",
+  "homepage_url": "https://www.google.com",
   "icons": {},
   "permissions": [
     "tabs",
